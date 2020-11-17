@@ -1,5 +1,3 @@
-![Jill](https://i.imgur.com/AXnjCsj.gif)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sirkhancision&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirkhancision&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,3 +13,5 @@ Currently:
 * Polishing what I learned of C
     * While also learning what's left
 * Still trying to maintain a routine
+
+![Jill](https://i.imgur.com/AXnjCsj.gif)
