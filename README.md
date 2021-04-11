@@ -12,6 +12,7 @@ Currently:
     * oui oui hon hon level of proficiency
 * Polishing what I learned of C
     * While also learning what's left
+* Learning Python
 * Still trying to maintain a routine
 
 ![Jill](https://i.imgur.com/AXnjCsj.gif)
