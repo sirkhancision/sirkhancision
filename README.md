@@ -11,6 +11,7 @@ Currently:
 * Polishing what I learned of C
     * While also learning what's left
 * Learning Python
+* Learning ZSH and Bash language
 * Still trying to maintain a routine
 
 ![Jill](https://i.imgur.com/AXnjCsj.gif)
