@@ -4,14 +4,15 @@ I like retro-looking stuff and ASCII art, so I try to implement a little of that
 
 Currently:  
 
--   Studying CS at UFRJ
--   Trying to maintain a routine
--   Learning French
-    -   oui oui hon hon level of proficiency
--   Polishing what I learned of C
-    -   While also learning what's left
--   Learning Python
--   Learning ZSH and Bash language
--   Still trying to maintain a routine
+-	Studying CS at UFRJ
+-	Trying to maintain a routine
+-	Learning French
+	-	oui oui hon hon level of proficiency
+-	Polishing what I learned of C
+	-	While also learning what's left
+-	Learning Python
+-	Learning Java
+-	Learning ZSH and Bash language
+-	Still trying to maintain a routine
 
 ![Jill](https://i.imgur.com/AXnjCsj.gif)
