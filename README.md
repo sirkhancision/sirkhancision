@@ -17,6 +17,8 @@ Learning:
 	width="16" height="16" /> Godot/GDScript
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 	width="16" height="16" /> Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
+	width="16" height="16" /> Rust
 
 Uses <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
 	width="16" height="16" /> Linux (Arch)
