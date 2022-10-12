@@ -1,24 +1,17 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirkhancision&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirkhancision&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-I like retro-looking stuff and ASCII art, so I try to implement a little of that into the things I take on. I'm also very fond of music, psychology, philosophy, poetry, videogames, and so on. So, I might bring these things together in form of code, from time to time.
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/spectronoid)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-	width="16" height="16" /> C
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-	width="16" height="16" /> Java
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-	width="16" height="16" /> Bash
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
-	width="16" height="16" /> Markdown
+I like retro-looking stuff and ASCII art, so I try to implement a little of that into the things I make. I'm also very fond of music, psychology, philosophy, poetry, videogames, and so on. So, I might bring these things together in form of code, from time to time, or just be inspired by them when coding.
+
+![C](https://img.shields.io/badge/-C-steelblue?logo=c&style=flat&logoColor=A8B9CC)
+![Shell Script](https://img.shields.io/badge/-Shell-black?logo=gnu-bash&style=flat&logoColor=4EAA25)
+![Rust](https://img.shields.io/badge/-Rust-chocolate?logo=rust&style=flat&logoColor=000000)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-gainsboro?logo=markdown&style=flat&logoColor=000000)
 
 Learning:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"
-	width="16" height="16" /> Godot/GDScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-	width="16" height="16" /> Python
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
-	width="16" height="16" /> Rust
+![Python](https://img.shields.io/badge/-Python-darkblue?logo=python&style=flat&logoColor=white)
 
-Uses <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-	width="16" height="16" /> Linux (Arch)
+I use ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-blue?logo=arch-linux&style=flat&logoColor=white)
