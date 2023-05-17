@@ -4,14 +4,13 @@
 
 I like retro-looking stuff and ASCII art, so I try to implement a little of that into the things I make. I'm also very fond of music, psychology, philosophy, poetry, video-games, and so on. So, I might bring these things together in form of code, from time to time, or just be inspired by them when coding.
 
-![C](https://img.shields.io/badge/-C-steelblue?logo=c&style=flat&logoColor=A8B9CC)
-![Shell Script](https://img.shields.io/badge/-Shell-black?logo=gnu-bash&style=flat&logoColor=4EAA25)
-![Rust](https://img.shields.io/badge/-Rust-chocolate?logo=rust&style=flat&logoColor=000000)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-gainsboro?logo=markdown&style=flat&logoColor=000000)
+Languages:
+- C
+- Shell (Bash, ZSH, Posix)
+- Python
+- Rust
+- Java
+- Markdown
 
-Learning:
 
-![Python](https://img.shields.io/badge/-Python-darkblue?logo=python&style=flat&logoColor=white)
-
-I use ![Void Linux](https://img.shields.io/badge/-Void%20Linux-437C17?&style=flat&logoColor=white)
+I use Void Linux.
