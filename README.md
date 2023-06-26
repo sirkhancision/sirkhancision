@@ -2,7 +2,7 @@
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/spectronoid97)
 
-I like retro-looking stuff and ASCII art, so I try to implement a little of that into the things I make. I'm also very fond of music, psychology, philosophy, poetry, video-games, and so on. So, I might bring these things together in form of code, from time to time, or just be inspired by them when coding.
+I like retro-looking stuff and ASCII art, so I try to incorporate a little bit of that into the things I make. I also like music, psychology, philosophy, poetry, video games, and so on. So I might bring those things together in the form of code, from time to time, or just be inspired by them while coding.
 
 Languages:
 - C
@@ -13,4 +13,4 @@ Languages:
 - Markdown
 
 
-I use Void Linux.
+I use and maintain packages on Void Linux.
