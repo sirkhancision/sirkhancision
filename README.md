@@ -10,7 +10,3 @@ Languages:
 - Python
 - Rust
 - Java
-- Markdown
-
-
-I use and maintain packages on Void Linux.
